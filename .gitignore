@@ -1,19 +1,2 @@
-*.swp
-*.pyc
-.DS_Store
-/.coverage
-/dist/
-/build/
-/MANIFEST
-/wagtail.egg-info/
-/docs/_build/
-/.tox/
 my_env
-*.idea/
-/*.egg/
-/.cache/
-/.pytest_cache/
-
-
-### vscode
-.vscode
+__pycache__
