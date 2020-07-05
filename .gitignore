@@ -8,7 +8,7 @@
 /wagtail.egg-info/
 /docs/_build/
 /.tox/
-/my_env
+my_env
 *.idea/
 /*.egg/
 /.cache/
